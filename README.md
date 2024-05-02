@@ -26,7 +26,20 @@ compatibility | PC, PS3, PS4 Switch |
 firmware | [GP2040-CE](https://gp2040-ce.info/) | 
 Microcontroller | Raspberry pico RP2040 2MB|
 
-
+## Pin Mapping
 <p align="center">
-  <img src="DOC/HARDWARE/fightbox_7.png" width="75%" height="75%">
+  <img src="DOC/fightbox_7.png" width="75%" height="75%">
+  <img src="DOC/fightbox_6.png" width="75%" height="75%">
+</p>
+
+## Player LED
+<p align="center">
+  <img src="DOC/fightbox_7.png" width="75%" height="75%">
+</p>
+
+## Privew Hardware
+<p align="center">
+  <img src="DOC/HARDWARE/fightbox__8.jpeg" width="75%" height="75%">
+  <img src="DOC/HARDWARE/fightbox_11.jpeg" width="75%" height="75%">
+  <img src="DOC/HARDWARE/fightbox_12.jpeg" width="75%" height="75%">
 </p>
