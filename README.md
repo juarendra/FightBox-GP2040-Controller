@@ -1,2 +1,5 @@
 # FightBox-GP2040-Controller
-Controller Based on GP2040 with Mechanical Switvh MX and 3D print Case
+This Project is for create Controller Based On GP2040 Firmware using cheap material like 3D Case and HandWiring motode.
+<p align="center">
+  <img src="DOC/HARDWARE/fightox_10.jpeg" width="75%" height="75%">
+</p>
