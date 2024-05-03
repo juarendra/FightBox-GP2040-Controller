@@ -39,7 +39,7 @@ Microcontroller | Raspberry pico RP2040 2MB|
 
 ## Player LED
 <p align="center">
-  <img src="DOC/fightbox_7.png" width="75%" height="75%">
+  <img src="DOC/fightbox_5.png" width="75%" height="75%">
 </p>
 
 ## Privew Hardware
