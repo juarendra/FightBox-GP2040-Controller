@@ -32,6 +32,11 @@ Microcontroller | Raspberry pico RP2040 2MB|
   <img src="DOC/fightbox_6.png" width="75%" height="75%">
 </p>
 
+## XBOX Mapping
+<p align="center">
+  <img src="DOC/fightbox_12.png" width="75%" height="75%">
+</p>
+
 ## Player LED
 <p align="center">
   <img src="DOC/fightbox_7.png" width="75%" height="75%">
