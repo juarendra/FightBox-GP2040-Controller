@@ -48,3 +48,6 @@ Microcontroller | Raspberry pico RP2040 2MB|
   <img src="DOC/HARDWARE/fightbox_11.jpeg" width="75%" height="75%">
   <img src="DOC/HARDWARE/fightbox_12.jpeg" width="75%" height="75%">
 </p>
+
+## Privew Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eCcixQw0Ffg/0.jpg)](https://www.youtube.com/watch?v=eCcixQw0Ffg)
